@@ -1,0 +1,173 @@
+[
+	{
+		"name": "noauth_listing_form",
+		"value": "uz5/nJ1MkL8asHhGnmKi2EAYUP6BXBR4MCjlPAbXLIo9H92POvu8KfKMbEb9vsl+kuOinNgeXgr5hA/yrNr2noT+raMxs3BnuE7tat9zVs8RBifllS37heY95erP58J3u15LKQveY1kOtw6EinI6Gf0our+cg6/nFe41jsY5b054BZNVvp+9pf1sBfNNUr4TNiDQ0GV0p5Ej2vLUL+JTGVEDJgnwJBToAp5yes3DChWKSygMwQmbI0dDexS6eFmSMI0LHafC+5lSAikm3zRTGX0kCIMNKS5+Od7oMvsPoIpcvxNDm3SzcdRgDsjB/dx3paX6zGVw7oVehyXDurro8+XxKJdm5d6B1nRZJqoS+wahM8F/msAam2NoheJiWyVEa1nESiDN/oCHjCZOV/+LzpEXtAOTByWKJHWqsWV/Xpo8JQPf8pjUB+UMO8E5RtiM0DHwXil7SKu3Pu5smjznIIV/QIWd09X3JHGfx1Bk5uoHRbCqeG2VRgyFDcm85Q1wqwNKnbor1bx7gh6mk1krtSVc1HkVZmjSI0cv33KNDkLP9bun8Qp611sXfbj9lVqH",
+		"url": "https://www.autoscout24.nl/listing-form",
+		"expires": "0",
+		"httpOnly": true,
+		"sameSite": "None",
+		"This domain only raw": true
+	},
+	{
+		"url": "http://.autoscout24.nl/",
+		"name": "gdpr-auditId",
+		"value": "49c81c88460744048e4dbc2ee63d5401",
+		"expires": "1669732290",
+		"httpOnly": false,
+		"sameSite": "Lax",
+		"This domain only raw": false
+	},
+	{
+		"url": "http://.autoscout24.nl/",
+		"name": "gdpr-last-interaction",
+		"value": "1636036292.487",
+		"expires": "1669732292",
+		"httpOnly": false,
+		"sameSite": "Lax",
+		"This domain only raw": false
+	},
+	{
+		"url": "http://.autoscout24.nl/",
+		"name": "gdpr-config-version",
+		"value": "64",
+		"expires": "1669732292",
+		"httpOnly": false,
+		"sameSite": "Lax",
+		"This domain only raw": false
+	},
+	{
+		"url": "http://.autoscout24.nl/",
+		"name": "euconsent-v2",
+		"value": "CPPJ1OePPJ1OtADABBNLBzCsAP_AAFPAAAAAHjJT5S5VbWFBYfZZZNsQWIxHVMClI2QCBAaAA6ABAAKQcAAEgGAyNAygBAgCIBgEgBBAAQNFCAEAAQAAIAAAAAGMIgAEAAAIIAIEiEMAQAJIAAIKCIAAAQAIgAQEEAAAighQAJbgTEAAAIAAAAAAgAAAAAAAAAAAAAAQNDQnyFyq2sKCw-iSSbYgkRiOqYEKRsAECAEABkAAAAUg4AAJAIBkABlAABAEQDAJACAAAgICAAIAAgAAQAAAAAEQQAAAAAAQQAQJEIYAgACQAAAUEQAAAAARAAgIAAABABCgAS3AmIAAAQEwkCsABYAFQAMgAcAA8ACAAEQAKgAZAA0AB5AEMARQAmABPACqAFgALgAbwA5gCEAEMAIgATQApQBhgDVAHtAPwA_QCOAEpAKeAXMAvwBhAEXgKRAU2AtABbAC8wGDAMkAZOKgFAAqACGAEwALgA_ACOAJBAU2AtgBeYyASACoAIYATAAuAD8AI4ApsBbAC8x0DUABYAFQALgAZAA4ACAAEQAKgAZAA0AB5AEMARQAmABPACqAFgALgAXwAxABmADeAHMAQgAhgBEACYAE0AKUAWIAwwBogD2gH4AfoBHACUgFPALmAX4AwgB0wEXgJBASoAmQBTYC0AFsALzAYMAxgBkgDJwGWEoDQACwALgAZAA4ACIAHgARAAmABVAC4AF8AMQAZgBCACGAEQAKUAaoA_ACOAFPAReAtgBeYDJwGWFIFIACwAKgAXAAyABwAEAAKgAZAA0AB5AEMARQAmABPACkAFUALAAXAAvgBiADMAHMAQgAhgBEAClAFiANEAasA_AD9AI4ASkAuYBhAEXgKbAWgAtgBeYDGAGSAMnIgBAAAgAsACEAKQNAJABUAFwAQwA_ACngIvAUiAxgBk4iAQACoALgAhgB-AFPAReApEBk5CAGAU8BKgDJygAYAEQALQCdgHVAP-AxYMACAEWAdUQADAEWANIA6oQAKANIAzQBogDqgMWIAAwCOAGZAOqOACAGZAOqAxMBiwoACAdUYABAOqSABgGZAOqAxYA.YAAAAAAAA6CA",
+		"expires": "1669732292",
+		"httpOnly": false,
+		"sameSite": "Lax",
+		"This domain only raw": false
+	},
+	{
+		"url": "https://www.autoscout24.nl/",
+		"name": "as24_identity_session",
+		"value": "eyJraWQiOiIxYWgzeGt5T2kzSUdWNUh4VnVZTktBS2ZnUnFpXzZsaklOa0tBcGg4b1VBIiwiYWxnIjoiUlMyNTYifQ.eyJ2ZXIiOjEsImp0aSI6IkFULkhJQnRDcE9fZGx0RG9TQ0ktZkI2OXhFRFpvT0l0WGhIUEZtYjBjT2NrcG8ub2FyNHd6dHJmYldTVDZ3MXY0MTYiLCJpc3MiOiJodHRwczovL2F1dGgtcHJpdmF0ZXMuYXV0b3Njb3V0MjQuY29tL29hdXRoMi9kZWZhdWx0IiwiYXVkIjoiYXBpOi8vZGVmYXVsdCIsImlhdCI6MTYzNjAzNjI5MiwiZXhwIjoxNjM2MDc5NDkyLCJjaWQiOiJpZGVudGl0eS12MiIsInVpZCI6IjAwdTE1MXZ1bHliNUFrZlFFNDE3Iiwic2NwIjpbIm9wZW5pZCIsIm9mZmxpbmVfYWNjZXNzIiwiZW1haWwiLCJwcm9maWxlIl0sInN1YiI6IjM5MDMxMzc5XzM5MTYzOTI3fCIsImN1c3RvbWVySWQiOiIzOTAzMTM3OSIsImN0eSI6IkIifQ.H9LQXbUTDVne7BHaKpDjiBoGoHuS0lE1DnHBWB_7WO8335MEeudMinaBVVgTb5tgPLsmhfgffE8UQ4r6jm2Sd7tDvoatcxiXQqjcTkiaqWcxjzityYE6BhD4EvSzjJ4lo2mtzhE3AyDEprLfXmpgTDAtkXycVt5LTu_GA7MW1F2wDXUp7rNQ49AnbRnOO6Jz6GAqQUQBO8AyM444wPBudW_Jt-CwDUOq20-IosQ10R9bDTb7dG7L0-rB46gOlo5eWepjojjxCFhp2b23vTRqtYqJsQBy_PdKR1_wzq9frdwWm54uJajdLyI_CEr7b27LKei4FRAt2xYKTZqkSjFCOw",
+		"expires": "1641133892",
+		"httpOnly": true,
+		"sameSite": "None",
+		"This domain only raw": true
+	},
+	{
+		"url": "https://www.autoscout24.nl/identity/oauth",
+		"name": "as24_identity_session_private",
+		"value": "4CvPu4k8xhl5qE3VdXBZIMrsSjYG6Yf124Dk0rMzug75EQV9ZKpcAb+H0lwGdfxw",
+		"expires": "1641133892",
+		"httpOnly": true,
+		"sameSite": "None",
+		"This domain only raw": true
+	},
+	{
+		"url": "https://.autoscout24.nl/",
+		"name": "sso",
+		"value": "e30=.eyAiY3RpZCI6IjM5MDMxMzc5IiwiY3R5IjoiQiIsImUiOiI1MGYzZTNjMGQwNTYxNmVmN2UwZTAwM2Y4ZjhjNjdkN2JhYmZhMjBlYTg1YzBjMjFlYjliNzhkMDRjMDhiNDhjIiB9.",
+		"expires": "1641133892",
+		"httpOnly": false,
+		"sameSite": "None",
+		"This domain only raw": false
+	},
+	{
+		"url": "http://.autoscout24.nl/",
+		"name": "cconsent-v2",
+		"value": "CPPJ1OePPJ1OtADABBNLBzCgAGAAAIAAAAABl0wTgADgAMACmAI8AXgA0wBtAD6AJgJxcTqQnVhO0idtE74J4oT0onshPbifUFACKA0UCYoRxQmihTFCsKGIUV4oyJRoFGiKPIUe0o_ij_FJYKUsUpwpXBUgipEFTgKuUVlYrVxWsyt2K3cV0YrwRXiivLFfgLAwWEosZRZLiy5FpkLTkWwYt6Rb6i5eFzMLnEXQ4vKBfVC_dGAWMEUYdww8xiMDEfGJCMYUZCwy6QAAAMhIFYACwAKgAZAA4AB4AEAAIgAVAAyABoADyAIYAigBMACeAFUALAAXAA3gBzAEIAIYARAAmgBSgDDAGqAPaAfgB-gEcAJSAU8AuYBfgDCAIvAUiApsBaAC2AF5gMGAZIAycVAKABUAEMAJgAXAB-AEcASCApsBbAC8xkAkAFQAQwAmABcAH4ARwBTYC2AF5joGoACwAKgAXAAyABwAEAAIgAVAAyABoADyAIYAigBMACeAFUALAAXAAvgBiADMAG8AOYAhABDACIAEwAJoAUoAsQBhgDRAHtAPwA_QCOAEpAKeAXMAvwBhADpgIvASCAlQBMgCmwFoALYAXmAwYBjADJAGTgMsJQGgAFgAXAAyABwAEQAPAAiABMACqAFwAL4AYgAzACEAEMAIgAUoA1QB-AEcAKeAi8BbAC8wGTgMsKQKQAFgAVAAuABkADgAIAAVAAyABoADyAIYAigBMACeAFIAKoAWAAuABfADEAGYAOYAhABDACIAFKALEAaIA1YB-AH6ARwAlIBcwDCAIvAU2AtABbAC8wGMAMkAZORACAABABYAEIAUjIASJxcTjgnYxPPifME_GJ-oUBQoQGgAkTi4nHBOxiefE-YJ-MT9QoChQgNgAgnFxOOCgKFCA4AEicXE44J2MTz4nzBPxifqFAUKEB0ADE4uJxwUIDwAGJxcTjgoQA0AkAFQAXABDAD8AKeAi8BSIDGAGTiIBAAKgAuACGAH4AU8BF4CkQGTkIAYBTwEqAMnKABgARAAtAJ2AdUA_4DFgwAMARYB1RQgCAAgAiwBpAHVFCAEADADSAM0AaIA6oDFhQgEAAwBHADMgHVE4uJxwUIA4AKAZkA6oDEwGLChAFABADqicXE44KEAYAEAOqJxcTjgoQCQAMAzIB1QGLA.aAAAEAAAAAA",
+		"expires": "1669732292",
+		"httpOnly": false,
+		"sameSite": "Lax",
+		"This domain only raw": false
+	},
+	{
+		"url": "http://.autoscout24.nl/",
+		"name": "gdpr-dau",
+		"value": "true",
+		"expires": "1636122693",
+		"httpOnly": false,
+		"sameSite": "Lax",
+		"This domain only raw": false
+	},
+	{
+		"url": "http://.autoscout24.nl/",
+		"name": "gdpr-dau-log-sent",
+		"value": "true",
+		"expires": "1636122693",
+		"httpOnly": false,
+		"sameSite": "Lax",
+		"This domain only raw": false
+	},
+	{
+		"url": "http://.autoscout24.nl/",
+		"name": "feedback_shown",
+		"value": "2",
+		"expires": "1651588301",
+		"httpOnly": false,
+		"sameSite": "Strict",
+		"This domain only raw": false
+	},
+	{
+		"url": "http://.autoscout24.nl/",
+		"name": "User",
+		"value": "CustomerType=B&CustomerID=39031379",
+		"expires": "0",
+		"httpOnly": false,
+		"sameSite": "None",
+		"This domain only raw": false
+	},
+	{
+		"url": "http://.autoscout24.nl/",
+		"name": "culture",
+		"value": "nl-NL",
+		"expires": "1667572329",
+		"httpOnly": false,
+		"sameSite": "None",
+		"This domain only raw": false
+	},
+	{
+		"url": "http://.autoscout24.nl/",
+		"name": "as24Visitor",
+		"value": "7d1fbb79-a934-44d0-b7c7-bbcb846c75c3",
+		"expires": "1667572338",
+		"httpOnly": false,
+		"sameSite": "None",
+		"This domain only raw": false
+	},
+	{
+		"url": "http://www.autoscout24.nl/",
+		"name": "culture",
+		"value": "nl-NL",
+		"expires": "0",
+		"httpOnly": true,
+		"sameSite": "None",
+		"This domain only raw": true
+	},
+	{
+		"url": "http://www.autoscout24.nl/",
+		"name": "PLAY_SESSION",
+		"value": "eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImNzcmZUb2tlbiI6IjRhNGE2OWIwNDUwOTIxNzI3ZWJlZjYwZWEwMGI4YzZiMjQ4NzFjOWItMTYzNjAzNjM1NTQxOS02MGYzMTM0YTFiYzIwOWQwYzhkMzAwMzQifSwibmJmIjoxNjM2MDM2MzU1LCJpYXQiOjE2MzYwMzYzNTV9.phedwxjIZ342P-DWsB-Sg221gzClMeeVDa-TpOh0n78",
+		"expires": "0",
+		"httpOnly": true,
+		"sameSite": "Lax",
+		"This domain only raw": true
+	},
+	{
+		"url": "http://.autoscout24.nl/",
+		"name": "addtl_consent",
+		"value": "1~7.66.70.89.93.108.122.149.162.167.196.241.253.259.311.317.323.326.338.415.440.448.449.482.486.494.495.540.571.574.588.817.820.864.981.1051.1095.1097.1126.1127.1171.1201.1205.1211.1248.1276.1301.1365.1415.1449.1570.1577.1651.1753.1765.1870.1878.1889.1911.2072.2202.2253.2299.2357.2526.2531.2568.2575.2577.2677.2822.3033",
+		"expires": "1669732356",
+		"httpOnly": false,
+		"sameSite": "Lax",
+		"This domain only raw": false
+	},
+	{
+		"url": "http://.autoscout24.nl/",
+		"name": "7a9273aa-bc97-4542-bed2-4ee53960a5aelocale",
+		"value": "nl",
+		"expires": "1669732356",
+		"httpOnly": false,
+		"sameSite": "Lax",
+		"This domain only raw": false
+	}
+]

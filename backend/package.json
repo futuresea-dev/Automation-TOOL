@@ -1,0 +1,62 @@
+{
+	"name": "autoscout24-auto-poster-back",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {
+		"2captcha": "^2.1.10",
+		"@aistiak/url-to-base64": "^1.0.1",
+		"@extra/recaptcha": "^4.2.1-next.587",
+		"@fingerprintjs/fingerprintjs": "^3.3.0",
+		"axios": "^0.24.0",
+		"chalk": "^4.1.0",
+		"cheerio": "^1.0.0-rc.10",
+		"cors": "^2.8.5",
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1",
+		"form-data": "^4.0.0",
+		"got": "^11.8.2",
+		"http-proxy-agent": "^4.0.1",
+		"https-proxy-agent": "^5.0.0",
+		"image-to-base64": "^2.2.0",
+		"lodash": "^4.17.21",
+		"mime2ext": "^1.0.0",
+		"mongoose": "^5.12.2",
+		"morgan": "^1.10.0",
+		"multer": "^1.4.2",
+		"playwright": "1.16",
+		"pptr-human-keyboard": "^0.2.0",
+		"proxy-chain": "^1.0.2",
+		"puppeteer": "^11.0.0",
+		"puppeteer-extra": "^3.2.3",
+		"puppeteer-extra-plugin-recaptcha": "^3.5.0",
+		"puppeteer-extra-plugin-recaptcha-advanced": "^1.0.2",
+		"randomstring": "^1.2.1",
+		"socks-proxy-agent": "^5.0.0",
+		"strip-ansi": "^6.0.0",
+		"thize": "^0.2.2",
+		"tmp-promise": "^3.0.2",
+		"tough-cookie": "^4.0.0",
+		"user-agents": "^1.0.770",
+		"uuid": "^8.3.2"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mehamednews/as24-autopster-back.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/mehamednews/as24-autopster-back/issues"
+	},
+	"homepage": "https://github.com/mehamednews/as24-autopster-back#readme",
+	"nodemonConfig": {
+		"ignore": [
+			"local.json"
+		]
+	}
+}

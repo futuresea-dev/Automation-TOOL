@@ -1,0 +1,1 @@
+- Try posting without photos then editing to add them [instead of pressing submit, just wait for 5 minutes then close the browser]
